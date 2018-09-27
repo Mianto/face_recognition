@@ -1,7 +1,7 @@
 Facial Recognition Project
 ---
 
-This is a demo project created for the Term Project of Soft Computing Tool in Engineering for the given topic of Smart City. 
+This is a demo project created for the Term Project of Soft Computing Tool in Engineering for the given topic of Smart City. (Using face_recognition)
 
 
 ## Features
